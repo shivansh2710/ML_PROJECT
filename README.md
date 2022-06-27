@@ -54,8 +54,9 @@ To send version/changes to github
  To setup CI/CD pipeline in heroku we need 3 information 
 
  1. HEROKU_EMAIL = shivanshsarathe2710@gmail.com
- 2. HEROKU_API_KEY = 65e598f5-b217-41c6-bf5b-2b8e45bc1699
+ 2. HEROKU_API_KEY = 65e598f5-b217-41c6-bf5b-2b8e45bc1699 
  3. HEROKU_APP_NAME = ml-regression-appp
+ 
 
 
  BUILD DOCKER IMAGE
